@@ -1,7 +1,5 @@
 # MTKBetterCam
 
---Tools for dealing with RAW image files produced by the MTK EngineerMode app... 
-
 **Note:** This repository is a nonsense. Cameras in MTK phones are so crappy it doesn't make sense to even bother. But I wanted to see what I could theoretically do, what's the highest quality image I could get. Resulting images **are** better than MTK's jpegs (total rubbish, just like this repository), but the quality is still very low.
 
 There are two main tools:
